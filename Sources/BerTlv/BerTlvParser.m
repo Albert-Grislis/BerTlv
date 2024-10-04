@@ -4,7 +4,7 @@
 //
 
 #import "BerTlvParser.h"
-#import "BerTlv.h"
+#import "BerTlvInterface.h"
 #import "HexUtil.h"
 #import "BerTag.h"
 #import "BerTlvs.h"

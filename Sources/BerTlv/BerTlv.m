@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Evgeniy Sinev. All rights reserved.
 //
 
-#import "BerTlv.h"
+#import "BerTlvInterface.h"
 #import "BerTag.h"
 #import "HexUtil.h"
 #import "BerTlvErrors.h"

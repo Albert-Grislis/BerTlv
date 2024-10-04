@@ -4,7 +4,7 @@ FOUNDATION_EXPORT double BerTlvVersionNumber;
 FOUNDATION_EXPORT const unsigned char BerTlvVersionString[];
 
 #import "BerTag.h"
-#import "BerTlv.h"
+#import "BerTlvInterface.h"
 #import "BerTlvBuilder.h"
 #import "BerTlvParser.h"
 #import "BerTlvErrors.h"

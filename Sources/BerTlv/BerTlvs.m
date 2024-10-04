@@ -5,7 +5,7 @@
 
 #import "BerTlvs.h"
 #import "BerTag.h"
-#import "BerTlv.h"
+#import "BerTlvInterface.h"
 
 
 @implementation BerTlvs {
